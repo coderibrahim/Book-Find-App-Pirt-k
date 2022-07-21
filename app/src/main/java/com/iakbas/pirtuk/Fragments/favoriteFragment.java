@@ -32,8 +32,6 @@ public class favoriteFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         db();
-
-
     }
 
     @Override
@@ -45,9 +43,11 @@ public class favoriteFragment extends Fragment {
         refreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                getActivity().getSupportFragmentManager().beginTransaction().replace(favoriteFragment.this.getId(), new favoriteFragment()).commit();
+
             }
         });
+
+
 
         recyclerViewFavBook.setLayoutManager(new GridLayoutManager(getActivity(),2));
         recyclerViewFavBook.setAdapter(adapter);
