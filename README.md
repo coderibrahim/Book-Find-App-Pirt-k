@@ -5,7 +5,8 @@
 - Animated app bar is used
 - Piccaso is used for image 
 
-![alt text for screen readers](/mockup/home.png "Text to show on mouseover")
+<img src="/mockup/home.png" width="80" height="80">
+
 
 
 - I will improve this app further
