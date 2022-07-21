@@ -5,7 +5,12 @@
 - Animated app bar is used
 - Piccaso is used for image 
 
-<img src="/mockup/home.png" width="80" height="80">
+<img src="/mockup/home.png" width="500" height="500">
+<img src="/mockup/searchall.png" width="500" height="500">
+<img src="/mockup/search.png" width="500" height="500">
+<img src="/mockup/details.png" width="500" height="500">
+<img src="/mockup/fav.png" width="500" height="500">
+
 
 
 
