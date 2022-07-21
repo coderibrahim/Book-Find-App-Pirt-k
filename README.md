@@ -5,14 +5,10 @@
 - Animated app bar is used
 - Piccaso is used for image 
 
-<img src="/mockup/home.png" width="500" height="500">
-<img src="/mockup/searchall.png" width="500" height="500">
-<img src="/mockup/search.png" width="500" height="500">
-<img src="/mockup/details.png" width="500" height="500">
-<img src="/mockup/fav.png" width="500" height="500">
-
-
+![alt text for screen readers](/mockup/home.png "Home Page").
+![alt text for screen readers](/mockup/search.png "Search Page").
+![alt text for screen readers](/mockup/searchallpost.png "search Books Page ").
 
 
 - I will improve this app further
-Bye 
+
