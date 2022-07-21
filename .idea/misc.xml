@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable-v24/circle_icon.xml" value="0.329" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable-v24/favorit_full.xml" value="0.245" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable-v24/home.xml" value="0.3255" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3635" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable-v24/roun_outline.xml" value="0.3255" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/shaperounded.xml" value="0.3625" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/shaperounded1.xml" value="0.245" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/shaperounded2.xml" value="0.245" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/shaperounded3.xml" value="0.245" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/drawable/shaperoundedsearch.xml" value="0.3635" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_blog.xml" value="0.3273657289002558" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_book_details.xml" value="0.3404255319148936" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_details.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_detailsq.xml" value="0.25" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_search.xml" value="0.3273657289002558" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/fav_list_row.xml" value="0.4740740740740741" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/fragment_favorite.xml" value="0.33" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/fragment_search.xml" value="0.3273657289002558" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/layout/list_row.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/menu/menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.245" />
+        <entry key="..\:/Users/schiz/AndroidStudioProjects/pirtuk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
